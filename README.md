@@ -1,3 +1,3 @@
 # Dogglers-App
 
-## This is for the Final Exam of CMSX 156 - Mobile Development: Kotlin
+#### This is for the Final Exam of CMSC 156 - Mobile Development: Kotlin
